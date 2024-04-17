@@ -1,5 +1,7 @@
 # WEBSITE HALLOWEN RESPONSIVO 🎃
 
+- Visite o site: https://eudesdgomes.github.io/website-responsivo-hallowen/
+
 - Site responsivo de Halloween usando HTML, CSS e JavaScript.
 - Contém animações durante a rolagem.
 - Possui três designs de cores (verde, vermelho e preto)
