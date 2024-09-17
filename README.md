@@ -1,6 +1,6 @@
 # WEBSITE HALLOWEN RESPONSIVO 🎃
 
-- Visite o site: https://eudesdgomes.github.io/website-responsivo-hallowen/
+- Visite o site: 
 
 - Site responsivo de Halloween usando HTML, CSS e JavaScript.
 - Contém animações durante a rolagem.
